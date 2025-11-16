@@ -5,8 +5,8 @@ export const Accueil = () => {
     return (
         <section className="container">
             <div className="content">
-                <h1 className="titre">Hi, I'm Myriam</h1>
-                <p className="description">I'm in Logistic</p>
+                <h1 className="titre">Hello, je suis Myriam</h1>
+                <p className="description">Je suis en TSMEL (Technicien Supérieur en Méthodes et Exploitation Logistique)</p>
                 <a href="mailto:myemail@myemail.com" className="contactBtn">Contactez Moi</a>
             </div>
             <img src="./images/LaptopCircle.png" alt="PhotoMyriam" className="photo"/>
