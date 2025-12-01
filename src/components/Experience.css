@@ -1,0 +1,14 @@
+@import "../variables.css";
+
+.expContainer {
+    color: var(--color-text);
+    margin: 79px 10% 0 10%;
+}
+
+.expTitle {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
