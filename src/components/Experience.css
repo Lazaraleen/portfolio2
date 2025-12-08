@@ -12,3 +12,108 @@
     letter-spacing: 1.75px;
     text-transform: uppercase;
 }
+
+.expContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 14px;
+}
+
+.expSkills {
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 37px;
+}
+
+.expSkill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 11px;
+}
+
+.expImgContainer {
+    background-color: var(--color-secondary);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+}
+
+.expImgContainer img {
+    width: 75px;
+}
+
+.expSkill p {
+    font-size: 25px;
+    font-family: var(--font-robot);
+    font-weight: 500;
+}
+
+.expHistory {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.expHistoryItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 17px;
+    background: #19376d;
+    background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+    border-radius: 10px;
+    padding: 24px;
+}
+
+.expHistoryItem img {
+    width: 50px;
+}
+
+.expHistoryItemDetail {
+    font-family: var(--font-robot);
+}
+
+.expHistoryItemDetail h3 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.expHistoryItemDetail p {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.expHistoryItemDetail ul {
+    margin-top: 6px;
+    list-style-position: inside;
+    font-size: 25px;
+    list-style-type: disc;
+    margin-left: 17px;
+}
+
+
+@media screen and (max-width: 830px) {
+    .expContent {
+        flex-direction: column;
+        align-items: center;
+        gap: 34px;
+    }
+
+    .expSkills {
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .expHistory {
+        width: 100%;
+        gap: 9px;
+    }
+}

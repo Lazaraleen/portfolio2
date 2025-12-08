@@ -5,8 +5,7 @@
         "pendant": "tout ce temps",
         "experiences": [
             "travaillé sur", 
-            "écrit ça", 
-            "fait ce bidule"
+            "écrit ça"
         ],
         "imageSrc": "../images/history/google.png"
     },
@@ -16,8 +15,7 @@
         "pendant": "tout ce temps",
         "experiences": [
             "travaillé sur", 
-            "écrit ça", 
-            "fait ce bidule"
+            "écrit ça"
         ],
         "imageSrc": "../images/history/google.png"
     },
@@ -27,19 +25,7 @@
         "pendant": "tout ce temps",
         "experiences": [
             "travaillé sur", 
-            "écrit ça", 
-            "fait ce bidule"
-        ],
-        "imageSrc": "../images/history/google.png"
-    },
-    {
-        "role": "Software Engineer",
-        "organisation": "Google",
-        "pendant": "tout ce temps",
-        "experiences": [
-            "travaillé sur", 
-            "écrit ça", 
-            "fait ce bidule"
+            "écrit ça"
         ],
         "imageSrc": "../images/history/google.png"
     }

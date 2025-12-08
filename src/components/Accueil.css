@@ -84,9 +84,9 @@
 
 .bottomBlur {
     position: absolute;
-    width: 70vw;
+    /* width: 70vw; */
     height: 50vw;
-    min-width: 350px;
+    /* min-width: 350px; */
     min-height: 250px;
     top: 246px;
     right: -25vw;

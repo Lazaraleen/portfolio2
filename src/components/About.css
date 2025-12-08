@@ -56,6 +56,10 @@
   background-size: 100% 100%;
 }
 
+.aboutItem img {
+  height: 100px;
+}
+
 .aboutItem h3 {
     font-size: 25px;
     font-weight: 600;
