@@ -35,7 +35,7 @@
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  /* gap: 50px; */
 }
 
 .aboutItem {
@@ -57,7 +57,13 @@
 }
 
 .aboutItem img {
-  height: 100px;
+  height: 80px;
+  width: 100px;
+  border-radius: 10px;
+}
+
+.fill {
+  object-fit: fill;
 }
 
 .aboutItem h3 {

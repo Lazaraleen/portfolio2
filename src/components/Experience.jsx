@@ -9,7 +9,7 @@ export const Experience = () => {
         <section className="expContainer" id="experience">
             <h2 className="expTitle">Expérience</h2>
             <div className="expContent">
-                <div className="expSkills">
+                {/* <div className="expSkills">
                     {skills.map((skill, id) => (
                         <div key={id} className="expSkill">
                             <div className="expImgContainer">
@@ -18,7 +18,7 @@ export const Experience = () => {
                             <p>{skill.title}</p>
                         </div>
                     ))}
-                </div>
+                </div> */}
                 <ul className="expHistory">
                     {history.map((historyItem, id) => (
                         <li key={id} className="expHistoryItem">

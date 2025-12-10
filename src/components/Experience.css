@@ -55,7 +55,8 @@
 }
 
 .expHistory {
-    width: 45%;
+    /* width: 45%; */
+    width: 75%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -73,7 +74,7 @@
 }
 
 .expHistoryItem img {
-    width: 50px;
+    width: 100px;
 }
 
 .expHistoryItemDetail {

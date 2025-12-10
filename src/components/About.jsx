@@ -9,24 +9,27 @@ export const About = () => {
                 <img src="../images/About.png" alt="A propos" className="aboutImage"/>
                 <ul className="aboutItems">
                     <li className="aboutItem">
-                        <img src="../images/AboutMenuIcon.png" alt="raccourci" />
+                        <img src="../images/Logistique.png" alt="raccourci" className="fill"/>
                         <div className="aboutItemText">
-                            <h3>Je suis en logistique</h3>
-                            <p>Actuellement en formation TSMEL</p>
-                        </div>
-                    </li>
-                    <li className="aboutItem">
-                        <img src="../images/ServeurIcon.png" alt="raccourci" />
-                        <div className="aboutItemText">
-                            <h3>Je suis toujours en logistique</h3>
-                            <p>Quelque part par là</p>
+                            <h3>Formation TSMEL</h3>
+                            <p>Aftral - Lescar</p>
+                            <p>En cours</p>
                         </div>
                     </li>
                     <li className="aboutItem">
                         <img src="../images/CursorIcon.png" alt="raccourci" />
                         <div className="aboutItemText">
-                            <h3>Je suis encore et toujours en logistique</h3>
-                            <p>Par contre je suis partie de l'autre côté</p>
+                            <h3>Intégratrice Web</h3>
+                            <p>OpenClassRooms (en distanciel)</p>
+                            <p>2022</p>
+                        </div>
+                    </li>
+                    <li className="aboutItem">
+                        <img src="../images/Licence.png" alt="mathématiques" />
+                        <div className="aboutItemText">
+                            <h3>Licence de Mathématiques</h3>
+                            <p>UPPA - Pau</p>
+                            <p>2004</p>
                         </div>
                     </li>
                 </ul>

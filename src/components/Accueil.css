@@ -36,6 +36,10 @@
     margin-bottom: 52px;
 }
 
+.little {
+    margin-bottom: 10px;
+}
+
 .contactBtn {
     text-decoration: none;
     background-color: var(--color-primary);
