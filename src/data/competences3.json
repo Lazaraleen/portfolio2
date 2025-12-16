@@ -1,0 +1,34 @@
+[
+    {
+        "title": "MAJ et suivi d'une base de données d'articles",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Création de visuels pour affichages divers",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Inventaires",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Commandes, réception, mise en rayon",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Gestion des stocks et du rayon",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Commande des carburants",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Suivi et MAJ des stocks et des prix carburants",
+        "imageSrc": "../images/icons/supermarche.png"
+    },
+    {
+        "title": "Réservation des camions de livraison",
+        "imageSrc": "../images/icons/supermarche.png"
+    }
+]

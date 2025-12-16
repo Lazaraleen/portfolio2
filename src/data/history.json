@@ -1,32 +1,32 @@
 [
     {
-        "role": "Software Engineer",
-        "organisation": "Google",
+        "role": "Employée polyvalent",
+        "organisation": "Le Louisabella - Idron",
         "pendant": "tout ce temps",
         "experiences": [
             "travaillé sur", 
             "écrit ça"
         ],
-        "imageSrc": "../images/history/google.png"
+        "imageSrc": "../images/icons/resto1.png"
     },
     {
-        "role": "Software Engineer",
-        "organisation": "Google",
+        "role": "Responsable / Agent administratif",
+        "organisation": "Super U Morlaàs",
         "pendant": "tout ce temps",
         "experiences": [
             "travaillé sur", 
             "écrit ça"
         ],
-        "imageSrc": "../images/history/google.png"
+        "imageSrc": "../images/icons/supermarche.png"
     },
     {
-        "role": "Software Engineer",
-        "organisation": "Google",
+        "role": "Tutrice",
+        "organisation": "Bibliothèque universitaire Pau",
         "pendant": "tout ce temps",
         "experiences": [
             "travaillé sur", 
             "écrit ça"
         ],
-        "imageSrc": "../images/history/google.png"
+        "imageSrc": "../images/icons/bibli.png"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Polyvalente",
+        "imageSrc": "../images/icons/polyvalent.png"
+    },
+    {
+        "title": "Autonome",
+        "imageSrc": "../images/icons/autonome.png"
+    },
+    {
+        "title": "Adaptable",
+        "imageSrc": "../images/icons/adaptable.png"
+    },
+    {
+        "title": "Capacité d'Analyse",
+        "imageSrc": "../images/icons/analyse.png"
+    },
+    {
+        "title": "Esprit Critique",
+        "imageSrc": "../images/icons/critique.png"
+    }
+]

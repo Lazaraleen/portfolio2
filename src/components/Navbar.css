@@ -37,6 +37,7 @@
 
 .menuBtn {
     height: 90%;
+    display: none;
 }
 
 @media screen and (max-width: 830px) {
@@ -58,7 +59,7 @@
     .menuBtn {
         display: block;
         cursor: pointer;
-        height: 75px;
+        height: 100%;
     }
 
     .menuUl {

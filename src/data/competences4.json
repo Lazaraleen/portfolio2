@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Service en salle",
+        "imageSrc": "../images/icons/resto1.png"
+    },
+    {
+        "title": "Gestion des stocks et des inventaires",
+        "imageSrc": "../images/icons/resto1.png"
+    },
+    {
+        "title": "Encaissement",
+        "imageSrc": "../images/icons/resto1.png"
+    }
+]

@@ -1,27 +1,22 @@
 [
     {
-        "title": "Compétence A",
-        "imageSrc": "../images/history/google.png",
-        "description": "Super Compétence"
+        "title": "Organiser et réguler les activités logistiques",
+        "imageSrc": "../images/icons/dolly.png"
     },
     {
-        "title": "Compétence A",
-        "imageSrc": "../images/history/google.png",
-        "description": "Super Compétence"
+        "title": "Exploiter les indicateurs logistiques",
+        "imageSrc": "../images/icons/dolly.png"
     },
     {
-        "title": "Compétence A",
-        "imageSrc": "../images/history/google.png",
-        "description": "Super Compétence"
+        "title": "Repérer / traiter les dysfonctionnements du site",
+        "imageSrc": "../images/icons/dolly.png"
     },
     {
-        "title": "Compétence A",
-        "imageSrc": "../images/history/google.png",
-        "description": "Super Compétence"
+        "title": "Définir/conduire le plan d’actions d’une solution logistique",
+        "imageSrc": "../images/icons/dolly.png"
     },
     {
-        "title": "Compétence A",
-        "imageSrc": "../images/history/google.png",
-        "description": "Super Compétence"
+        "title": "Rationaliser l’implantation des produits",
+        "imageSrc": "../images/icons/dolly.png"
     }
 ]

@@ -12,10 +12,16 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.titleComp {
+    font-size: 25px;
 }
 
 .competences {
     margin-top: 37px;
+    margin-bottom: 20px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

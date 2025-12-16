@@ -17,7 +17,7 @@ export const About = () => {
                         </div>
                     </li>
                     <li className="aboutItem">
-                        <img src="../images/CursorIcon.png" alt="raccourci" />
+                        <img src="../images/Integrateur.png" alt="raccourci" />
                         <div className="aboutItemText">
                             <h3>Intégratrice Web</h3>
                             <p>OpenClassRooms (en distanciel)</p>

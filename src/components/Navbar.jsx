@@ -11,8 +11,8 @@ export const Navbar = () => {
                 className="menuBtn" 
                 src={
                     menuOpen
-                    ? "../images/menuIconClose.png"
-                    : "../images/menuIcon.png"
+                    ? "../images/icons/cross.png"
+                    : "../images/icons/burger.png"
                     }
                 alt="Bouton Menu" 
                 onClick={() => setMenuOpen(!menuOpen)}
